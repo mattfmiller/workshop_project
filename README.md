@@ -1,6 +1,6 @@
 # Epicodus Workshop Project
 
-#### An exercise in HTML, CSS, and JavaScript 02/03/18
+#### An Epicodus exercise in HTML, CSS, and JavaScript 02/03/18
 
 #### By Matt Miller
 
